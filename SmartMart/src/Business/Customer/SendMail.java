@@ -28,8 +28,8 @@ public class SendMail {
 
     private static final String SMTP_HOST = "smtp.gmail.com";
     private static final String SMTP_PORT = "587";
-    private static final String EMAIL_FROM = "poojadoddannavardoddannavar@gmail.com";
-    private static final String APP_PASSWORD = "zymogpxdlidvslpu";
+    private static final String EMAIL_FROM = "xyz@gmail.com";
+    private static final String APP_PASSWORD = "qefqdwefwqf"
 
     private String subject;
     private String message;
