@@ -17,7 +17,7 @@ import java.util.regex.Pattern;
  */
 public class WeatherAPI {
 
-    private static final String API_KEY = "eeacdec87fe3c8f6098ace59670eb51e";
+    private static final String API_KEY = 
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/weather";
 
     public static Weather getWeatherData(String city) {
